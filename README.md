@@ -11,9 +11,9 @@
 ```bash
 git clone https://github.com/onico/onico-arm64-linux-qemu.git
 cd onico-arm64-linux-qemu
-tar -xzvf Linux.tar.gz
+tar -xJvf Linux.tar.gz
 cd Linux
 ./s.sh
 ```
-sha256sum output:fe4ad0050509aacbd6b256ffb747f244130941c702aca02f97611ac4b36bbb4b
-sha512sum output:110341299f61299d5af60a6ff39a086f7365dccbff82fc3befc6726d9840e435b36d792ccea42565bcfcbcb5bd90464bfd942e8e9b5cd8cfb4e5934d190f3ede
+sha256sum output:8aa068be841f8fe663510194b014e576be9b92c455f3351fa7d272a78eeca988
+sha512sum output:831ae76928a0242159fbf6073921b612920c4bc207cb3f6d2e7d6997ad2dc7b94763524951a19ee95f7e386bc63f1cc5bf5c8e99ac52731223ca1db3595687cd
