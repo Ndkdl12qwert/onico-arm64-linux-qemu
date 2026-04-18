@@ -9,7 +9,7 @@
 ## 📦 下载
 
 ```bash
-git clone https://github.com/onico/onico-arm64-linux-qemu.git
+wget https://github.com/Ndkdl12qwert/onico-arm64-linux-qemu/raw/main/Linux.tar.xz
 cd onico-arm64-linux-qemu
 tar -xJvf Linux.tar.gz
 cd Linux
